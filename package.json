@@ -1,0 +1,19 @@
+{
+  "name": "anibutt",
+  "version": "1.0.0",
+  "description": "Animated buttons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottgrayson/AniButt.git"
+  },
+  "author": "Scott Grayson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottgrayson/AniButt/issues"
+  },
+  "homepage": "https://github.com/scottgrayson/AniButt#readme"
+}
